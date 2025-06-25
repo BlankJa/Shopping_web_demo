@@ -1,0 +1,15 @@
+org\example\startup\repository\PermissionRepository.class
+org\example\startup\model\Role.class
+org\example\startup\controller\UserController.class
+org\example\startup\model\User.class
+org\example\startup\util\JwtUtil$ClaimsResolver.class
+org\example\startup\model\Permission.class
+org\example\startup\service\UserService.class
+org\example\startup\filter\JwtAuthenticationFilter.class
+org\example\startup\repository\UserRepository.class
+org\example\startup\config\WebConfig.class
+org\example\startup\repository\RoleRepository.class
+org\example\startup\StartUpApplication.class
+org\example\startup\service\RoleService.class
+org\example\startup\config\SecurityConfig.class
+org\example\startup\util\JwtUtil.class
